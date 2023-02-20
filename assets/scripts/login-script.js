@@ -1,4 +1,4 @@
-/** @module Login-Script */
+@module Login-Script */
 /** 
 * Membuat variabel loginFormElement untuk tampilan form.
 * @constant {HTMLElement}
@@ -29,7 +29,7 @@ const expectedEmail = 'admin@dicoding.com';
  
 /** 
  * Membuat variabel expectedPassword untuk menyimpan informasi password sementara.
- *@constant {string}
+ * @constant {string}
  */
 const expectedPassword = 'superpassword'
  
